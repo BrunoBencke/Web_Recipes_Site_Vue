@@ -1,3 +1,13 @@
-<h1 align="center"> Web Recipes Site </h1>
+<h![logo](https://user-images.githubusercontent.com/41764882/228562002-29d5c16b-0a38-42d6-a953-8d85ad72a8ae.png)
+1 align="center"> Web Recipes Site </h1>
 
-![alt text](https://github.com/BrunoBencke/Web_Recipes_Site/blob/main/diagrama_er.jpeg?raw=true)
+# :hammer: Funcionalidades do projeto
+
+- `Funcionalidades`: Foram implementadas todas as funcionalidades exigidas no documento do teste.
+
+# 🛠️ Abrir e rodar o projeto
+
+  - Clonar o projeto
+  - Executar yarn install
+  - Executar yarn serve
+
