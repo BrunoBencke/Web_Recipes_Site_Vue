@@ -1,12 +1,14 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from '../views/home/Home.vue'
+import Home from '../views/home/home.vue'
 import Login from '../views/login/Login.vue'
+import Guard from '../services/middleware'
 
 const routes = [
   {
-    path: '/',
+    path: '/home',
     name: 'Home',
-    component: Home
+    component: Home,
+    beforeEnter: Guard.auth
   },
   {
     path: '/login',
