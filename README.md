@@ -4,7 +4,6 @@
 
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidades`: Foram implementadas todas as funcionalidades exigidas no documento do teste.
 
 # 🛠️ Abrir e rodar o projeto
 
